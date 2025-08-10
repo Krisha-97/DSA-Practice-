@@ -35,3 +35,9 @@ public:
         return res;
     }
 };
+// Input: nums = [1,0,-1,0,-2,2], target = 0
+// Output: [[-2,-1,0,1],[-2,0,0,2],[-1,0,0,1]]
+// Explanation: The distinct quadruplets that sum up to 0 are:
+// 1. [-2,-1,0,1]
+// 2. [-2,0,0,2]
+// 3. [-1,0,0,1]
