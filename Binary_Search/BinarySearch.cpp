@@ -14,5 +14,7 @@ public:
         return -1;
     }
 };
+// If the target is not found, return -1
+// This function implements binary search on a sorted array of integers.
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
