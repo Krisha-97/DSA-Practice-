@@ -16,4 +16,8 @@ public:
         }
         return ans;
     }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> e8c500e (BS 1D Array Problem 3)
