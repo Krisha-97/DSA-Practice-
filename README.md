@@ -1,2 +1,2 @@
 # DSA-Practice
-This repository is created to practice DSA in C++ language.
+This repository is created to practice DSA in C++
